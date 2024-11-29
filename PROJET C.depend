@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1731690047 source:c:\users\poste\desktop\enicar\tp\projet c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bib.h"
+	"maBib.c"
+
+1732867585 c:\users\poste\desktop\enicar\tp\projet c\bib.h
+
+1732867608 c:\users\poste\desktop\enicar\tp\projet c\mabib.c
+	"bib.h"
+	<time.h>
+
+1732867608 source:c:\users\poste\desktop\enicar\tp\projet c\mabib.c
+	"bib.h"
+	<time.h>
+
+1732883836 source:c:\users\aya\downloads\projet_c_centre_handicap-main\projet_c_centre_handicap-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Bib.h"
+	"maBib.c"
+
+1732883836 c:\users\aya\downloads\projet_c_centre_handicap-main\projet_c_centre_handicap-main\bib.h
+
+1732884420 c:\users\aya\downloads\projet_c_centre_handicap-main\projet_c_centre_handicap-main\mabib.c
+	"Bib.h"
+	<time.h>
+
+1732890218 source:c:\users\poste\downloads\aa-main\aa-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Bib.h"
+	"maBib.c"
+
+1732893119 c:\users\poste\downloads\aa-main\aa-main\bib.h
+
+1732893163 c:\users\poste\downloads\aa-main\aa-main\mabib.c
+	"Bib.h"
+	<time.h>
+
